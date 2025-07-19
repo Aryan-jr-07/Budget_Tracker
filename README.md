@@ -4,6 +4,8 @@ A fully responsive, modern Budget Tracker app built with React (TypeScript), Jav
 
 🌐 Live Demo
 
+screenshot
+
 👉 Click here to view the live site ([replace with your deployed link](https://budget-tracker-virid-gamma.vercel.app/))
 
 ⸻
@@ -39,7 +41,7 @@ src/
 
 🧪 Run Locally
 # Clone the repository
-git clone https://github.com/your-username/budget-tracker.git
+git clone https://github.com/Aryan-jr-07/Budget_Tracker.git
 
 # Navigate to the project folder
 cd budget-tracker
