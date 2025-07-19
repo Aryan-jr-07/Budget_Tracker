@@ -61,8 +61,8 @@ npm run dev
 ------------------
 
 📦 Future Enhancements
-	•	📈 Add charts (category-wise expenses/income)
-	•	🗃️ Export transactions to CSV
-	•	🔐 User login and cloud sync (e.g., Firebase)
-	•	📱 Convert to a PWA for offline access
+•📈 Add charts (category-wise expenses/income)
+•🗃️ Export transactions to CSV
+•🔐 User login and cloud sync (e.g., Firebase)
+•📱 Convert to a PWA for offline access
  
